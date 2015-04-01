@@ -1,12 +1,42 @@
+[
 {
-"1": "basic commands",
-"2": "titles",
-"3": "general terms",
-"4": "blocks",
-"5": "hand techniques",
-"6": "stances",
-"7": "kicks",
-"8": "signals",
-"9": "numbers",
-"10": "ordinals"
+"id": 1,
+"name": "basic commands"
+},
+{
+"id": 2,
+"name": "titles"
+},
+{
+"id": 3,
+"name": "general terms"
+},
+{
+"id": 4,
+"name": "blocks"
+},
+{
+"id": 5,
+"name": "hand techniques"
+},
+{
+"id": 6,
+"name": "stances"
+},
+{
+"id": 7,
+"name": "kicks"
+},
+{
+"id": 8,
+"name": "signals"
+},
+{
+"id": 9,
+"name": "numbers"
+},
+{
+"id": 10,
+"name": "ordinals"
 }
+]
