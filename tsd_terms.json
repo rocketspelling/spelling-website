@@ -118,5 +118,55 @@
 "english": "without count",
 "korean": "ku ryung up shi",
 "category_id": 1
+},
+{
+"english": "low block ",
+"korean": "ha dan makgi",
+"category_id": 4
+},
+{
+"english": "high block",
+"korean": "song dan makgi",
+"category_id": 4
+},
+{
+"english": "outside block",
+"korean": "bakot makgi",
+"category_id": 4
+},
+{
+"english": "inside block",
+"korean": "ahn makgi",
+"category_id": 4
+},
+{
+"english": "double block",
+"korean": "sang soo makgi",
+"category_id": 4
+},
+{
+"english": "knifehand defense",
+"korean": "soo do bang uh",
+"category_id": 4
+},
+{
+"english": "wedge block",
+"korean": "hae chuh makgi",
+"category_id": 4
+},
+{
+"english": "scissor block",
+"korean": "ka wi makgi",
+"category_id": 4
+},
+{
+"english": "low knifehand block",
+"korean": "soo do ha dan bang uh",
+"category_id": 4
+},
+{
+"english": "high knifehand block",
+"korean": "soo do song dan bang uh",
+"category_id": 4
 }
 ]
