@@ -120,6 +120,61 @@
 "category_id": 1
 },
 {
+"english": "grandmaster",
+"korean": "kwan jang nim",
+"category_id": 2
+},
+{
+"english": "master",
+"korean": "sa bum nim",
+"category_id": 2
+},
+{
+"english": "instructor",
+"korean": "kyo sa nim",
+"category_id": 2
+},
+{
+"english": "assistant / training instructor",
+"korean": "jo kyo nim",
+"category_id": 2
+},
+{
+"english": "senior",
+"korean": "sun bae nim",
+"category_id": 2
+},
+{
+"english": "junior",
+"korean": "hue bae nim",
+"category_id": 2
+},
+{
+"english": "examiner",
+"korean": "shim sa kwan",
+"category_id": 2
+},
+{
+"english": "referee",
+"korean": "ju shim",
+"category_id": 2
+},
+{
+"english": "black belt holder",
+"korean": "yu dan ja",
+"category_id": 2
+},
+{
+"english": "colored belt student",
+"korean": "yu kup ja",
+"category_id": 2
+},
+{
+"english": "white belt student",
+"korean": "mu kup ja",
+"category_id": 2
+},
+{
 "english": "low block ",
 "korean": "ha dan makgi",
 "category_id": 4
