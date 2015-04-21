@@ -175,7 +175,217 @@
 "category_id": 2
 },
 {
-"english": "low block ",
+"english": "Way of the China Hand",
+"korean": "tang soo do",
+"category_id": 3
+},
+{
+"english": "Way of Coordinated Power",
+"korean": "hapkido",
+"category_id": 3
+},
+{
+"english": "no",
+"korean": "aniyo",
+"category_id": 3
+},
+{
+"english": "How are you? (less formal)",
+"korean": "Ahn young hasayeo",
+"category_id": 3
+},
+{
+"english": "How are you? (formal)",
+"korean": "Ahn young ha shim ni ka",
+"category_id": 3
+},
+{
+"english": "Do you understand?",
+"korean": "Al gae sup ni ka",
+"category_id": 3
+},
+{
+"english": "front",
+"korean": "ap",
+"category_id": 3
+},
+{
+"english": "escape",
+"korean": "baegi",
+"category_id": 3
+},
+{
+"english": "you're welcome",
+"korean": "cheon maeneyo",
+"category_id": 3
+},
+{
+"english": "sparring",
+"korean": "dae ryun",
+"category_id": 3
+},
+{
+"english": "knife",
+"korean": "dangum",
+"category_id": 3
+},
+{
+"english": "belt",
+"korean": "dee",
+"category_id": 3
+},
+{
+"english": "uniform",
+"korean": "dobak",
+"category_id": 3
+},
+{
+"english": "training hall / school",
+"korean": "dojang",
+"category_id": 3
+},
+{
+"english": "throwing",
+"korean": "dunjigi",
+"category_id": 3
+},
+{
+"english": "thank you (less formal)",
+"korean": "go map sa hom ni da",
+"category_id": 3
+},
+{
+"english": "sword",
+"korean": "gum",
+"category_id": 3
+},
+{
+"english": "self-defense",
+"korean": "ho shin sool",
+"category_id": 3
+},
+{
+"english": "chest protector",
+"korean": "hogoo",
+"category_id": 3
+},
+{
+"english": "pressure points",
+"korean": "hyeol do",
+"category_id": 3
+},
+{
+"english": "form",
+"korean": "hyung / poomse",
+"category_id": 3
+},
+{
+"english": "one-step sparring",
+"korean": "il soo suk dae ryun",
+"category_id": 3
+},
+{
+"english": "staff",
+"korean": "jang bong",
+"category_id": 3
+},
+{
+"english": "branch school",
+"korean": "ji kwan",
+"category_id": 3
+},
+{
+"english": "short staff",
+"korean": "jong bong",
+"category_id": 3
+},
+{
+"english": "headquarters school",
+"korean": "joong ang dojang",
+"category_id": 3
+},
+{
+"english": "middle stick",
+"korean": "joong bong",
+"category_id": 3
+},
+{
+"english": "bamboo sword",
+"korean": "juke do",
+"category_id": 3
+},
+{
+"english": "thank you",
+"korean": "kam sa hom ni da",
+"category_id": 3
+},
+{
+"english": "basics",
+"korean": "kibon",
+"category_id": 3
+},
+{
+"english": "spirit yell",
+"korean": "kihap",
+"category_id": 3
+},
+{
+"english": "punching board",
+"korean": "kwon go",
+"category_id": 3
+},
+{
+"english": "breaking",
+"korean": "kyuk pha",
+"category_id": 3
+},
+{
+"english": "falling",
+"korean": "nak bop",
+"category_id": 3
+},
+{
+"english": "right",
+"korean": "o-ruen",
+"category_id": 3
+},
+{
+"english": "nunchuku",
+"korean": "sang jul bong",
+"category_id": 3
+},
+{
+"english": "hand techniques (Hapkido)",
+"korean": "soo-gi",
+"category_id": 3
+},
+{
+"english": "left",
+"korean": "wen",
+"category_id": 3
+},
+{
+"english": "yes",
+"korean": "ye",
+"category_id": 3
+},
+{
+"english": "side",
+"korean": "yup",
+"category_id": 3
+},
+{
+"english": "excuse me",
+"korean": "shil ye hom ni da",
+"category_id": 3
+},
+{
+"english": "I'm sorry",
+"korean": "choe song him ni da",
+"category_id": 3
+},
+{
+"english": "low block",
 "korean": "ha dan makgi",
 "category_id": 4
 },
@@ -223,5 +433,440 @@
 "english": "high knifehand block",
 "korean": "soo do song dan bang uh",
 "category_id": 4
+},
+{
+"english": "riding stance punch",
+"korean": "kee ma se kong kyuk",
+"category_id": 5
+},
+{
+"english": "middle punch",
+"korean": "joong dan ji roo gi",
+"category_id": 5
+},
+{
+"english": "high punch",
+"korean": "sang dan ji roo gi",
+"category_id": 5
+},
+{
+"english": "reverse punch",
+"korean": "bahn dae ji roo gi",
+"category_id": 5
+},
+{
+"english": "double middle punch",
+"korean": "sang soo joong dan ji roo gi",
+"category_id": 5
+},
+{
+"english": "knifehand strike",
+"korean": "soo do chigi",
+"category_id": 5
+},
+{
+"english": "backfist strike",
+"korean": "doong mok chigi",
+"category_id": 5
+},
+{
+"english": "elbow strike",
+"korean": "pal koop chigi",
+"category_id": 5
+},
+{
+"english": "hook punch",
+"korean": "koon dol joki",
+"category_id": 5
+},
+{
+"english": "uppercut",
+"korean": "chee je gi",
+"category_id": 5
+},
+{
+"english": "knifehand and reverse punch",
+"korean": "yuk gin",
+"category_id": 5
+},
+{
+"english": "ridgehand strike",
+"korean": "yuk soo do chigi",
+"category_id": 5
+},
+{
+"english": "spearhand strike",
+"korean": "kwan soo chigi",
+"category_id": 5
+},
+{
+"english": "backfist strike",
+"korean": "kap kwon chigi",
+"category_id": 5
+},
+{
+"english": "palm heel strike",
+"korean": "jang kwon chigi",
+"category_id": 5
+},
+{
+"english": "hammer fist strike",
+"korean": "may joo mok chigi",
+"category_id": 5
+},
+{
+"english": "half-fist punch",
+"korean": "pyunju mok ji roo gi",
+"category_id": 5
+},
+{
+"english": "tigermouth strike",
+"korean": "hogoo chigi",
+"category_id": 5
+},
+{
+"english": "wrist strike",
+"korean": "sonmok chigi",
+"category_id": 5
+},
+{
+"english": "front stance",
+"korean": "joon gool jasae",
+"category_id": 6
+},
+{
+"english": "cat stance",
+"korean": "hoo gool jasae",
+"category_id": 6
+},
+{
+"english": "riding stance",
+"korean": "kee ma jasae",
+"category_id": 6
+},
+{
+"english": "sparring stance",
+"korean": "dae ryun jasae",
+"category_id": 6
+},
+{
+"english": "kicking stance",
+"korean": "jokgi jasae",
+"category_id": 6
+},
+{
+"english": "one-leg crane stance",
+"korean": "handari jasae",
+"category_id": 6
+},
+{
+"english": "front stretch kick",
+"korean": "ap olegee",
+"category_id": 7
+},
+{
+"english": "front kick",
+"korean": "ap chagi",
+"category_id": 7
+},
+{
+"english": "inside to outside axe kick",
+"korean": "aneh se bahke ro nae ryuh chagi",
+"category_id": 7
+},
+{
+"english": "outside to inside axe kick",
+"korean": "bahke ri aneh se nae ryuh chagi",
+"category_id": 7
+},
+{
+"english": "push kick",
+"korean": "milah chagi",
+"category_id": 7
+},
+{
+"english": "roundhouse kick",
+"korean": "dolyah chagi",
+"category_id": 7
+},
+{
+"english": "side stretch kick",
+"korean": "yup olegee",
+"category_id": 7
+},
+{
+"english": "side kick",
+"korean": "yup chagi",
+"category_id": 7
+},
+{
+"english": "back kick",
+"korean": "dwi dolah chagi",
+"category_id": 7
+},
+{
+"english": "spin roundhouse",
+"korean": "dwi hoe jun",
+"category_id": 7
+},
+{
+"english": "hook kick",
+"korean": "gullgi chagi",
+"category_id": 7
+},
+{
+"english": "punt kick",
+"korean": "pudu chagi",
+"category_id": 7
+},
+{
+"english": "crescent kick",
+"korean": "bahn dal chagi",
+"category_id": 7
+},
+{
+"english": "tornado kick",
+"korean": "jung dolyah chagi",
+"category_id": 7
+},
+{
+"english": "jump front kick",
+"korean": "dwi ro ap chagi",
+"category_id": 7
+},
+{
+"english": "jump side kick",
+"korean": "dwi ro yup chagi",
+"category_id": 7
+},
+{
+"english": "rear sweep kick",
+"korean": "ha dan dwi hoe jun",
+"category_id": 7
+},
+{
+"english": "front sweep kick",
+"korean": "ha dan ap dwi ho jun",
+"category_id": 7
+},
+{
+"english": "knee kick",
+"korean": "moo rup chagi",
+"category_id": 7
+},
+{
+"english": "diagonal kick",
+"korean": "ha dan dolyah chagi",
+"category_id": 7
+},
+{
+"english": "shin-bone kick",
+"korean": "palmok chagi",
+"category_id": 7
+},
+{
+"english": "twist kick",
+"korean": "bitool chagi",
+"category_id": 7
+},
+{
+"english": "blue player",
+"korean": "chung",
+"category_id": 8
+},
+{
+"english": "red player",
+"korean": "hong",
+"category_id": 8
+},
+{
+"english": "referee",
+"korean": "chu shim",
+"category_id": 8
+},
+{
+"english": "judge",
+"korean": "bu shim",
+"category_id": 8
+},
+{
+"english": "attention",
+"korean": "char yet",
+"category_id": 8
+},
+{
+"english": "bow",
+"korean": "kyung yet",
+"category_id": 8
+},
+{
+"english": "ready motion",
+"korean": "choon bi",
+"category_id": 8
+},
+{
+"english": "turn about",
+"korean": "dwi dolah",
+"category_id": 8
+},
+{
+"english": "sit down",
+"korean": "anjo",
+"category_id": 8
+},
+{
+"english": "stand up",
+"korean": "il uh suh",
+"category_id": 8
+},
+{
+"english": "round 1",
+"korean": "il hoe jun",
+"category_id": 8
+},
+{
+"english": "round 2",
+"korean": "yi hoe jun",
+"category_id": 8
+},
+{
+"english": "round 3",
+"korean": "sam hoe jun",
+"category_id": 8
+},
+{
+"english": "break",
+"korean": "golyeuh",
+"category_id": 8
+},
+{
+"english": "continue",
+"korean": "ke soh",
+"category_id": 8
+},
+{
+"english": "start",
+"korean": "shi jak",
+"category_id": 8
+},
+{
+"english": "stop",
+"korean": "goman",
+"category_id": 8
+},
+{
+"english": "warning",
+"korean": "kyong go",
+"category_id": 8
+},
+{
+"english": "deduction",
+"korean": "kam jum",
+"category_id": 8
+},
+{
+"english": "time",
+"korean": "shi gon",
+"category_id": 8
+},
+{
+"english": "winner",
+"korean": "sung",
+"category_id": 8
+},
+{
+"english": "1 (one)",
+"korean": "hana",
+"category_id": 9
+},
+{
+"english": "2 (two)",
+"korean": "dool",
+"category_id": 9
+},
+{
+"english": "3 (three)",
+"korean": "set",
+"category_id": 9
+},
+{
+"english": "4 (four)",
+"korean": "net",
+"category_id": 9
+},
+{
+"english": "5 (five)",
+"korean": "dasut",
+"category_id": 9
+},
+{
+"english": "6 (six)",
+"korean": "yoset",
+"category_id": 9
+},
+{
+"english": "7 (seven)",
+"korean": "ilgup",
+"category_id": 9
+},
+{
+"english": "8 (eight)",
+"korean": "yodul",
+"category_id": 9
+},
+{
+"english": "9 (nine)",
+"korean": "ahhop",
+"category_id": 9
+},
+{
+"english": "10 (ten)",
+"korean": "yul",
+"category_id": 9
+},
+{
+"english": "1st (first)",
+"korean": "il",
+"category_id": 10
+},
+{
+"english": "2nd (second)",
+"korean": "yi",
+"category_id": 10
+},
+{
+"english": "3rd (third)",
+"korean": "sam",
+"category_id": 10
+},
+{
+"english": "4th (fourth)",
+"korean": "sa",
+"category_id": 10
+},
+{
+"english": "5th (fifth)",
+"korean": "oh",
+"category_id": 10
+},
+{
+"english": "6th (sixth)",
+"korean": "yu",
+"category_id": 10
+},
+{
+"english": "7th (seventh)",
+"korean": "chil",
+"category_id": 10
+},
+{
+"english": "8th (eighth)",
+"korean": "bal",
+"category_id": 10
+},
+{
+"english": "9th (ninth)",
+"korean": "gu",
+"category_id": 10
 }
 ]
